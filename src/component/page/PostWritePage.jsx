@@ -50,7 +50,7 @@ function PostWritePage(props){
                 <Button
                     title="Write a post"
                     onClick={() => {
-                        navigate("/");
+                        navigate("/mini-blog");
                     }}
                 />
             </Container>

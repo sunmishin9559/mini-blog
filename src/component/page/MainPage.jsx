@@ -36,13 +36,13 @@ function MainPage(props) {
                 <Button 
                     title="Write a post"
                     onClick={() => {
-                        navigate("/post-write");
+                        navigate("/mini-blog/post-write");
                     }}
                 />
                 <PostList
                     posts={data}
                     onClickItem={(item) => {
-                        navigate(`/post/${item.id}`);
+                        navigate(`/mini-blog/post/${item.id}`);
                     }}
                 />
             </Container>

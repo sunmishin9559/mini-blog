@@ -64,7 +64,7 @@ function PostViewPage(props) {
                 <Button
                     title="Go back"
                     onClick={() => {
-                        navigate("/");
+                        navigate("/mini-blog");
                     }}
                 />
                 <PostContainer>
@@ -85,7 +85,7 @@ function PostViewPage(props) {
                 <Button
                     title="Write a comment"
                     onClick={() => {
-                        navigate("/");
+                        navigate("/mini-blog");
                     }}
                 />
             </Container>
