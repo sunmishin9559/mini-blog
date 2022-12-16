@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to React",
+        "content": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike.",
+        "comments": [
+            {
+                "id": 11,
+                "content": "You can create a new react app in the current directory by using 'npx create-react-app .'😄"
+            },
+            {
+                "id": 12,
+                "content": "It is easy to learn and use!"
+            },
+            {
+                "id": 13,
+                "content": "I like learning React"
+            },
+            {
+                "id": 14,
+                "content": "Thank you👍"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "[React] Conditional Rendering",
+        "content": "In React, you can create distinct components that encapuslate behavior you need. Then, you can render only some of them, depending on the state of your application.",
+        "comments": [
+            {
+                "id": 21,
+                "content": "Conditional rendering in React works the same way conditions work in JavaScript."
+            },
+            {
+                "id": 22,
+                "content": "Thank you for the post."
+            },
+            {
+                "id": 23,
+                "content": "I've used only inline If-Else with Conditional Operator. Now I learned that I can use inline If with Logical && Operator!"
+            },
+            {
+                "id": 24,
+                "content": "Thank you😁"
+            },
+            {
+                "id": 25,
+                "content": "I am write code using this!!"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Hello. This is Summer!",
+        "content": "Welcome to my blog!",
+        "comments": [
+            {
+                "id": 31,
+                "content": "Hello!👍"
+            },
+            {
+                "id": 32,
+                "content": "I like this blog!"
+            },
+            {
+                "id": 33,
+                "content": "React is hard to learn..😂"
+            },
+            {
+                "id": 34,
+                "content": "Hello~!"
+            }
+        ]
+    }
+]
