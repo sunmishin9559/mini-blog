@@ -1,4 +1,4 @@
-Live: https://sunmishin9559.github.io/mini-blog`
+Live: https://sunmishin9559.github.io/mini-blog
 
 ### `npm start`
 
